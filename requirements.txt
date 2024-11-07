@@ -1,0 +1,25 @@
+# Core scientific libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# PySpark and Java setup
+pyspark
+findspark
+
+# Kafka for real-time streaming
+confluent-kafka
+
+# NewsAPI client for fetching real-time news
+newsapi-python
+
+# Machine learning and NLP libraries
+scikit-learn
+nltk
+spacy
+torch
+transformers
+
+# Additional tools
+tqdm                  # For progress bars
